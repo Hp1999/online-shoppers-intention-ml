@@ -109,11 +109,7 @@ directly — **it never retrains the model**.
 
 ### Live App Link
 
-> https://<your-app-name>.streamlit.app
->
-> *(Replace with your actual Streamlit Community Cloud URL after deploying.)*
-> It will look like `https://online-shoppers-intention-ml.streamlit.app` or
-> similar, depending on the name Streamlit assigns at deploy time.
+> https://online-shoppers-intention-ml-neqnj2jeaevpbkkwhnrrsy.streamlit.app/
 
 ---
 
